@@ -1,4 +1,10 @@
-# diprella-login
+# Diprella Login Realized
+
+[Design Source](https://dribbble.com/shots/5311359-Diprella-Login)
+
+https://diprella-login.herokuapp.com/
+
+![Demo](https://thumbs.gfycat.com/AnyUnhappyComet-size_restricted.gif)
 
 ## Project setup
 ```
