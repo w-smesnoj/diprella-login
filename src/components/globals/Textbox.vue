@@ -28,6 +28,7 @@
 export default {
   data: () => ({
     type: 'text',
+    showpassword: false,
   }),
   props: {
     value: String,
@@ -38,7 +39,6 @@ export default {
     label: String,
     fa: String,
     newpassword: Boolean,
-    showpassword: Boolean,
   },
   mounted() {
     if (this.email) {
